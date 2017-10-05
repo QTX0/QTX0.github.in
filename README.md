@@ -1,2 +1,2 @@
-# QTX0.github.in
+# QTX0.github.io
 QTX web page
